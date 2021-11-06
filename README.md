@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot
+## Thakkudu V2
 
 </div>
 
