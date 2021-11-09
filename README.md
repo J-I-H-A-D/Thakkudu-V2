@@ -1,6 +1,5 @@
 <div align="center">
-<img src="![Thakkudu Official 20211109_081548](https://user-images.githubusercontent.com/85656190/140852484-736cf0e4-8641-4211-9901-14565aa73abe.jpg)
-" alt="JiHaaD" width="170" />
+
 
 ## Thakkudu V2
 
@@ -10,14 +9,14 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JiHaaD-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="JiHaaD" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/Thakkudu-V2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,51 +35,47 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 [`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
 
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot
-🦄 npm start
+💫 git clone https://github.com/J-I-H-A-D/Thakkudu-V2.git
+💫 cd DogeBot
+💫 npm start
 ```
 ## For Termux
 ```bash
-🦄 apt update
-🦄 apt upgrade
-🦄 pkg update && pkg upgrade 
-🦄 pkg install hot
-🦄 pkg install bash
-🦄 pkg install libwebp
-🦄 pkg install git -y
-🦄 pkg install nodejs -y 
-🦄 pkg install ffmpeg -y 
-🦄 pkg install wget
-🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
-🦄 cd DogeBot
-🦄 npm install
-🦄 npm start
-🦄 scan qr code within 15seconds
+💜 apt update
+💜 apt upgrade
+💜 pkg update && pkg upgrade 
+💜 pkg install hot 
+💜 pkg install bash
+💜 pkg install libwebp
+💜 pkg install git -y
+💜 pkg install nodejs -y 
+💜 pkg install ffmpeg -y 
+💜 pkg install wget
+💜 pkg install imagemagick -y
+💜 git clone https://github.com/DGXeonJ-I-H-A-D/Thakkudu-V2
+💜 cd DogeBot
+💜 npm install
+💜 npm start
+💜 scan qr code within 15seconds
 ```
 
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+917736703116"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/FiMI4i0UuimE1zI1MZzN1Z"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/JIDMODSYT)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`JID MODS`](https://github.com/J-I-H-A-D)
