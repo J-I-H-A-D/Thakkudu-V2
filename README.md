@@ -1,6 +1,4 @@
 <div align="center">
-https://user-images.githubusercontent.com/85656190/140853386-b96ac205-0ab2-4398-8f82-71ce786dc66a.jpg
-
 
 ## Thakkudu V2
 
