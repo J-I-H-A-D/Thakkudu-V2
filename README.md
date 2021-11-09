@@ -1,6 +1,6 @@
 <div align="center">
 <img src="![Thakkudu Official 20211109_081548](https://user-images.githubusercontent.com/85656190/140852484-736cf0e4-8641-4211-9901-14565aa73abe.jpg)
-" alt="Xeon" width="170" />
+" alt="JiHaaD" width="170" />
 
 ## Thakkudu V2
 
