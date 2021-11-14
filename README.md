@@ -55,8 +55,8 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 💜 pkg install ffmpeg -y 
 💜 pkg install wget
 💜 pkg install imagemagick -y
-💜 git clone https://github.com/DGXeonJ-I-H-A-D/Thakkudu-V2
-💜 cd DogeBot
+💜 git clone https://github.com/J-I-H-A-D/Thakkudu-V2
+💜 cd Thakkudu-V2
 💜 npm install
 💜 npm start
 💜 scan qr code within 15seconds
