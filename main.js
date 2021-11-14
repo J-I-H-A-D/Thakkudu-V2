@@ -221,7 +221,7 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
                 time_welc = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
                 memeg = mdata.participants.length
-                out = `*Gᴏᴏᴅ Bʏᴇ* 👋\n@${num.split('@')[0]}\n*𝙷𝚘𝚙𝚎𝚏𝚞𝚕𝚕𝚢 𝚃𝚑𝚎𝚛𝚎 𝚆𝚘𝚗𝚝 𝙱𝚎 𝙱𝚞𝚛𝚍𝚎𝚗 𝙷𝚎𝚛𝚎 𝙰𝚗𝚢𝚖𝚘𝚛𝚎* 🌿\n𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`
+                out = `*Gᴏᴏᴅ Bʏᴇ* 👋\n@${num.split('@')[0]}\n*𝙷𝚘𝚙𝚎𝚏𝚞𝚕𝚕𝚢 𝚃𝚑𝚎𝚛𝚎 𝚆𝚘𝚗𝚝 𝙱𝚎 𝙱𝚞𝚛𝚍𝚎𝚗 𝙷𝚎𝚛𝚎 𝙰𝚗𝚢𝚖𝚘𝚛𝚎* 🌿\n𝐓𝐡𝐚𝐤𝐤𝐮𝐝𝐮 𝐁𝐨𝐭`
                 goodbyeBut = [{buttonId:`h`,buttonText:{displayText:'GET OUT 🚪'},type:1}, {buttonId:`sc`,buttonText:{displayText:'BOT SCRIPT'}, type:1}]
                 goodbyeButt = { contentText: ` `, footerText: `${out}`, buttons: goodbyeBut, headerType: 6, locationMessage: bosco3.message.locationMessage}
                 client.sendMessage(mdata.id, goodbyeButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
@@ -234,8 +234,8 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
         if (welcom === false) return
         let v = client.contacts[num] || { notify: num.replace(/@.+/, "") };
         anu_user = v.vname || v.notify || num.split("@")[0];
-        time_wel = moment.tz("Asia/Jakarta").format("HH:mm");
-        teks = `𝗛𝗮𝗹𝗼 ${anu_user} 𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 シ︎`;
+        time_wel = moment.tz("Asia/Kolkata").format("HH:mm");
+        teks = `𝗛𝗮𝗹𝗼 ${anu_user} 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗔𝗹𝗶𝘆𝗮𝗮𝗵 シ︎`;
         buff = await getBuffer(
           `http://hadi-api.herokuapp.com/api/card/welcome?nama=${anu_user}&descriminator=${
             groupMembers.length
@@ -271,9 +271,9 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
         num = anu.participants[0];
         let w = client.contacts[num] || { notify: num.replace(/@.+/, "") };
         anu_user = w.vname || w.notify || num.split("@")[0];
-        time_wel = moment.tz("Asia/Jakarta").format("HH:mm");
+        time_wel = moment.tz("Asia/Kolkata").format("HH:mm");
         memeg = mdata.participants.length;
-        out = `𝗦𝗮𝘆𝗼𝗻𝗮𝗿𝗮 ${anu_user} 👋`;
+        out = `𝙂𝙤𝙤𝙙 𝘽𝙞𝙚 ${anu_user} 👋`;
         buff = await getBuffer(
           `http://hadi-api.herokuapp.com/api/card/goodbye?nama=${anu_user}&descriminator=${
             groupMembers.length
@@ -363,7 +363,7 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
       Object.keys(m.message)[0] === "ephemeralMessage"
         ? m.message.ephemeralMessage.message
         : m.message;
-    const jam = moment.tz("Asia/Jakarta").format("HH:mm:ss");
+    const jam = moment.tz("Asia/Kolkata").format("HH:mm:ss");
     let d = new Date();
     let locale = "id";
     let gmt = new Date(0).getTime() - new Date("1 Januari 2021").getTime();
