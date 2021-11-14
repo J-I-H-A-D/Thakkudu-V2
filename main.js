@@ -48,7 +48,7 @@ const runtime = function (seconds) {
   return dDisplay + hDisplay + mDisplay + sDisplay;
 };
 fakenomor = '0@s.whatsapp.net'
-const gcrevoke = ["916909137213-1621430788@g.us"]
+const gcrevoke = ["917736703116-1633657810@g.us"]
 prefix = '#'
 shp = '⬡'
 owner = "917736703116@s.whatsapp.net"
