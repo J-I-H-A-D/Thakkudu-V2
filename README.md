@@ -39,7 +39,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Clone Repo & Installation dependencies
 ```bash
 💫 git clone https://github.com/J-I-H-A-D/Thakkudu-V2.git
-💫 cd DogeBot
+💫 cd Thakkudu-V2
 💫 npm start
 ```
 ## For Termux
