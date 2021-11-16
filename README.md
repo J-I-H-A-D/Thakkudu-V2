@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://ibb.co/9bkrzwh"><img src="https://i.ibb.co/7nd18gQ/Thakkudu-Official-20211109-081548.jpg" alt="Thakkudu-Official-20211109-081548" border="0"></a>
+
+
+
 ## Thakkudu V2
 
 </div>
