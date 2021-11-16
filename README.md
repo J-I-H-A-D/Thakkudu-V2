@@ -34,11 +34,6 @@
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
-
-
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
@@ -74,7 +69,7 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/FiMI4i0UuimE1zI1MZzN1Z"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/FN5WnbncDGS0qXLuCB2ypy"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/channel/JIDMODSYT)
